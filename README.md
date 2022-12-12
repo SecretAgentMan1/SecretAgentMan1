@@ -5,7 +5,7 @@
 - <b>O.S. Ticket Install</b>
   - [Installing O.S. Ticket](https://github.com/SecretAgentMan1/O.S.-Ticket-Install)
 - <b>Simple Python Scripts</b>
-  - [Simple Python Scripts](https://github.com/SecretAgentMan1/Simple-Python-Scripts) <b><i>(Potentially NSFW)</b></i>
+  - [Simple Python Scripts](https://github.com/SecretAgentMan1/Simple-Python-Scripts) <b><i></b></i>
 - <b>Active Directory</b>
  
 <h2>📺 YouTube Videos</h2>
