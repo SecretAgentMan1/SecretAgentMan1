@@ -20,7 +20,7 @@
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [twitter]: https://twitter.com/GregoryLaughlin
-[youtube]: [https://www.youtube.com/channel/UCET3O4KRCFag7KWA3We0gPQ]
-[linkedin]:[(https://www.linkedin.com/in/gregory-laughlin-308ab0189/?trk=public-profile-join-page)]
+[youtube]: https://www.youtube.com/channel/UCET3O4KRCFag7KWA3We0gPQ
+[linkedin]: https://www.linkedin.com/in/gregory-laughlin-308ab0189/?trk=public-profile-join-page
 <!--
 
