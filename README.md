@@ -10,7 +10,7 @@
  
 <h2>📺 YouTube Videos</h2>
 
-- [O.S. Ticket Install]((https://youtu.be/TJLXLykXqo0))
+- [O.S. Ticket Install](https://youtu.be/TJLXLykXqo0)
 - [Homelab Tour](https://youtu.be/kByUmD6FyHU)
 
 <h2> 🤳 Connect with me:</h2>
