@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greg! <br/><a href="https://github.com/SecretAgentMan1"></a>, <a href="www.linkedin.com/in/gregory-laughlin-308ab0189">I'm a Aspiring I.T. Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Greg! <br/><a href="https://github.com/SecretAgentMan1"></a>, <a href="www.linkedin.com/in/gregory-laughlin-308ab0189">I'm a Aspiring I.T. Professional</a>, <a href="https://www.youtube.com/channel/UCET3O4KRCFag7KWA3We0gPQ">YouTube</a></h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
@@ -6,7 +6,6 @@
   - [Installing O.S. Ticket](https://github.com/SecretAgentMan1/O.S.-Ticket-Install)
 - <b>Simple Python Scripts</b>
   - [Simple Python Scripts](https://github.com/SecretAgentMan1/Simple-Python-Scripts) <b><i></b></i>
-- <b>Active Directory</b>
  
 <h2>📺 YouTube Videos</h2>
 
