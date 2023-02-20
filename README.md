@@ -1,4 +1,4 @@
-<h1>Hi, I'm Greg! <br/><a href="https://github.com/SecretAgentMan1"></a>, <a href="www.linkedin.com/in/gregory-laughlin-308ab0189">I'm a Aspiring I.T. Professional</a>, <a href="https://www.youtube.com/channel/UCET3O4KRCFag7KWA3We0gPQ">YouTube</a></h1>
+<h1>Hi, I'm Greg! <br/><a href="https://github.com/SecretAgentMan1"></a>, <a href="www.linkedin.com/in/gregory-laughlin-308ab0189">I'm a Aspiring I.T. Professional.</a>, <a href="https://www.youtube.com/channel/UCET3O4KRCFag7KWA3We0gPQ">YouTube</a></h1>
 
 <h2>👨‍💻 Personal Projects:</h2>
 
